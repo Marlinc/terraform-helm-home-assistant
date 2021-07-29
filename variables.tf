@@ -1,5 +1,5 @@
 variable "k8s_namespace" {
-  default = "home_assistant"
+  default = "home-assistant"
   description = "Kubernetes namespace to deploy Home Asisstant to"
 }
 
